@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 21
+.project
+
+tester.php
+
+K 13
+svn:mergeinfo
+V 392
+/branches/bradsprev11:599-621
+/branches/dawnduskV11:625-639
+/branches/diagnosticV12:759-766
+/branches/fixesRC11:664-669
+/branches/fixesv11:655-659
+/branches/heyuenginev12:741-754
+/branches/othersprev11:645-647
+/branches/preV102:554-598
+/branches/prev11:621-675
+/branches/prev12:734-773
+/branches/schedmgmtprev11:643-652
+/branches/shutterV11:628-637
+/branches/webhookv12:700-735
+/trunk:718-733
+END

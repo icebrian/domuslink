@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/931/trunk/theme/mobileWebKit/tpl
+END
+home.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/home.tpl
+END
+systemstatus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/systemstatus.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/error.tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/appliance.tpl
+END
+scene.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/931/trunk/theme/mobileWebKit/tpl/scene.tpl
+END
+shutter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/shutter.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/floorplan_table.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/light.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/irrigation.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/login.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/931/trunk/theme/mobileWebKit/tpl/modules.tpl
+END
+about.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/about.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/931/trunk/theme/mobileWebKit/tpl/layout.tpl
+END
+hvac.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/hvac.tpl
+END
+other.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/other.tpl
+END
+status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/867/trunk/theme/mobileWebKit/tpl/status.tpl
+END

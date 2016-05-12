@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl
+END
+utility.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/utility.tpl
+END
+users_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/users_edit.tpl
+END
+timer_macro_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/timer_macro_edit.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/irrigation.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/login.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/modules.tpl
+END
+macro_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/macro_add.tpl
+END
+groups_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/groups_view.tpl
+END
+aliases_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/aliases_view.tpl
+END
+trigger_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/trigger_add.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/layout.tpl
+END
+groups_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/groups_edit.tpl
+END
+aliases_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/aliases_edit.tpl
+END
+macro_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/macro_view.tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/appliance.tpl
+END
+timers_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/timers_view.tpl
+END
+trigger_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/trigger_view.tpl
+END
+scene.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/scene.tpl
+END
+shutter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/shutter.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/floorplan_table.tpl
+END
+macro_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/macro_edit.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/light.tpl
+END
+trigger_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/trigger_edit.tpl
+END
+timer_macro_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/timer_macro_add.tpl
+END
+users_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/users_add.tpl
+END
+scenes_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/scenes_view.tpl
+END
+heyuconf_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/heyuconf_view.tpl
+END
+about.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/about.tpl
+END
+weekdays.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/weekdays.tpl
+END
+frontend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/frontend.tpl
+END
+hvac.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/hvac.tpl
+END
+other.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/other.tpl
+END
+status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/status.tpl
+END
+diagnostic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/diagnostic.tpl
+END
+upload.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/upload.tpl
+END
+setupverify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/setupverify.tpl
+END
+heyuconf_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/heyuconf_edit.tpl
+END
+timer_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/timer_edit.tpl
+END
+scenes_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/scenes_edit.tpl
+END
+groups_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/groups_add.tpl
+END
+timer_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/timer_add.tpl
+END
+systemstatus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/systemstatus.tpl
+END
+scenes_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/scenes_add.tpl
+END
+aliases_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/aliases_add.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/error.tpl
+END
+timer_macro_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/timer_macro_view.tpl
+END
+users_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/users_view.tpl
+END
+sched_file_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/default/tpl/sched_file_add.tpl
+END

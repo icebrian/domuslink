@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink
+END
+DevicesAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/DevicesAdapter.java
+END
+DomusLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/DomusLink.java
+END
+RefreshButtonClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/RefreshButtonClickListener.java
+END
+FloorPlanItemClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/FloorPlanItemClickListener.java
+END
+DomusSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/868/domus.Link.Android/trunk/src/com/domuslink/DomusLink/DomusSettings.java
+END
+DeviceStateClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/DeviceStateClickListener.java
+END
+DevicesItemClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/DevicesItemClickListener.java
+END
+DimmerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/932/domus.Link.Android/trunk/src/com/domuslink/DomusLink/DimmerControl.java
+END

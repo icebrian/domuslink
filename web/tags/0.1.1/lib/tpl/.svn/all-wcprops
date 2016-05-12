@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/login.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/error.tpl
+END
+aliases_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/aliases_add.tpl
+END
+heyuconf_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/heyuconf_view.tpl
+END
+all_controls.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/all_controls.tpl
+END
+ctrl_app_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/ctrl_app_table.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/layout.tpl
+END
+frontend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/frontend.tpl
+END
+aliases.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/aliases.tpl
+END
+ctrl_light_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/ctrl_light_table.tpl
+END
+heyuconf_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/heyuconf_edit.tpl
+END
+aliases_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/aliases_edit.tpl
+END
+reload.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/reload.tpl
+END
+ctrl_irrig_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/350/tags/0.1.1/lib/tpl/ctrl_irrig_table.tpl
+END

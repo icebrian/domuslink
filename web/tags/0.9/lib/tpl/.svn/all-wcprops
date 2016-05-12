@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/350/tags/0.9/lib/tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/350/tags/0.9/lib/tpl/appliance.tpl
+END
+location_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/350/tags/0.9/lib/tpl/location_view.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/350/tags/0.9/lib/tpl/floorplan_table.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/350/tags/0.9/lib/tpl/irrigation.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/350/tags/0.9/lib/tpl/light.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/350/tags/0.9/lib/tpl/login.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/350/tags/0.9/lib/tpl/modules.tpl
+END
+heyuconf_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/350/tags/0.9/lib/tpl/heyuconf_view.tpl
+END
+aliases_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/350/tags/0.9/lib/tpl/aliases_view.tpl
+END
+location_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/350/tags/0.9/lib/tpl/location_edit.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/350/tags/0.9/lib/tpl/layout.tpl
+END
+frontend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/350/tags/0.9/lib/tpl/frontend.tpl
+END
+location_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/350/tags/0.9/lib/tpl/location_add.tpl
+END
+heyuconf_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/350/tags/0.9/lib/tpl/heyuconf_edit.tpl
+END
+aliases_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/350/tags/0.9/lib/tpl/aliases_edit.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/350/tags/0.9/lib/tpl/error.tpl
+END
+aliases_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/350/tags/0.9/lib/tpl/aliases_add.tpl
+END
+info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/350/tags/0.9/lib/tpl/info.tpl
+END

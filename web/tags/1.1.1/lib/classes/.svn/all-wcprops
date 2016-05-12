@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/677/tags/1.1.1/lib/classes
+END
+scheduleelement.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/scheduleelement.class.php
+END
+location.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/location.class.php
+END
+login.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/login.class.php
+END
+error.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/error.class.php
+END
+scheduleelementfactory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/scheduleelementfactory.class.php
+END
+testschedelements.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/testschedelements.php
+END
+tpl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/tpl.class.php
+END
+heyuconf.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/heyuconf.class.php
+END
+timer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/timer.class.php
+END
+global.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/global.class.php
+END
+heyusched.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/heyusched.class.php
+END
+heyusched.const.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/677/tags/1.1.1/lib/classes/heyusched.const.php
+END

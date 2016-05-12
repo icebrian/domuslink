@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/530/tags/1.0.1/db
+END
+schedules
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/530/tags/1.0.1/db/schedules
+END
+modules
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/530/tags/1.0.1/db/modules
+END
+floorplan
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/530/tags/1.0.1/db/floorplan
+END

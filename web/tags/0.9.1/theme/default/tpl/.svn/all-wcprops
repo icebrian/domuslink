@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl
+END
+location_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/location_view.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/floorplan_table.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/irrigation.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/light.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/login.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/modules.tpl
+END
+heyuconf_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/heyuconf_view.tpl
+END
+aliases_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/aliases_view.tpl
+END
+location_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/location_edit.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/layout.tpl
+END
+frontend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/frontend.tpl
+END
+location_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/location_add.tpl
+END
+heyuconf_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/heyuconf_edit.tpl
+END
+aliases_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/aliases_edit.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/error.tpl
+END
+aliases_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/aliases_add.tpl
+END
+info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/info.tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/350/tags/0.9.1/theme/default/tpl/appliance.tpl
+END

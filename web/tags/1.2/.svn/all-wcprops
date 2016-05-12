@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/775/tags/1.2
+END
+include.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/775/tags/1.2/include.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/775/tags/1.2/config.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/775/tags/1.2/version.php
+END
+include_globals.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/775/tags/1.2/include_globals.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/775/tags/1.2/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/775/tags/1.2/login.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/775/tags/1.2/error.php
+END
+fileloc.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/775/tags/1.2/fileloc.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/775/tags/1.2/robots.txt
+END

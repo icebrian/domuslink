@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/942/tags/2.1.1/utility
+END
+setupgroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/942/tags/2.1.1/utility/setupgroups.php
+END
+status.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/942/tags/2.1.1/utility/status.php
+END
+heyuconfold.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/942/tags/2.1.1/utility/heyuconfold.class.php
+END
+diagnostic.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/942/tags/2.1.1/utility/diagnostic.php
+END
+converttoaliasmap.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/942/tags/2.1.1/utility/converttoaliasmap.func.php
+END
+setupverify.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/942/tags/2.1.1/utility/setupverify.php
+END
+setupuserdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/942/tags/2.1.1/utility/setupuserdb.php
+END
+setupmodules.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/942/tags/2.1.1/utility/setupmodules.php
+END
+testconfconversion.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/942/tags/2.1.1/utility/testconfconversion.php
+END

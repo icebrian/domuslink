@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 165
+/domus.Link.Android/branches/update_2.1/src/com/domuslink/api/DomusAsyncTask.java:915-931
+/domus.Link.Android/trunk/src/com/domuslink/api/DomusAsyncTask.java:895-901
+END

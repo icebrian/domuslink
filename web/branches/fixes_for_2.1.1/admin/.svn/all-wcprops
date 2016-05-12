@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin
+END
+heyu.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/heyu.php
+END
+frontend.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/frontend.php
+END
+groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/groups.php
+END
+scenes.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/scenes.php
+END
+aliases.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/aliases.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/users.php
+END
+utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/admin/utility.php
+END

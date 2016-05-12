@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl
+END
+timer_macro_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/timer_macro_view.tpl
+END
+sched_file_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/sched_file_add.tpl
+END
+utility.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/utility.tpl
+END
+timer_macro_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/timer_macro_edit.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/irrigation.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/modules.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/login.tpl
+END
+macro_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/macro_add.tpl
+END
+trigger_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/trigger_add.tpl
+END
+aliases_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/aliases_view.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/layout.tpl
+END
+aliases_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/aliases_edit.tpl
+END
+macro_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/macro_view.tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/appliance.tpl
+END
+trigger_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/trigger_view.tpl
+END
+timers_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/timers_view.tpl
+END
+shutter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/shutter.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/floorplan_table.tpl
+END
+macro_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/macro_edit.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/light.tpl
+END
+trigger_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/trigger_edit.tpl
+END
+timer_macro_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/timer_macro_add.tpl
+END
+about.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/about.tpl
+END
+heyuconf_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/heyuconf_view.tpl
+END
+weekdays.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/weekdays.tpl
+END
+frontend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/frontend.tpl
+END
+other.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/other.tpl
+END
+status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/status.tpl
+END
+upload.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/upload.tpl
+END
+diagnostic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/diagnostic.tpl
+END
+setupverify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/setupverify.tpl
+END
+timer_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/timer_edit.tpl
+END
+heyuconf_edit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/heyuconf_edit.tpl
+END
+timer_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/timer_add.tpl
+END
+aliases_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/aliases_add.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/775/tags/1.2/theme/default/tpl/error.tpl
+END

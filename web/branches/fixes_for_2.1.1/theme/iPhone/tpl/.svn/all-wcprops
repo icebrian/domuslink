@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl
+END
+home.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/home.tpl
+END
+systemstatus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/systemstatus.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/error.tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/appliance.tpl
+END
+scene.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/scene.tpl
+END
+shutter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/shutter.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/floorplan_table.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/light.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/irrigation.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/login.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/modules.tpl
+END
+about.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/about.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/layout.tpl
+END
+hvac.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/hvac.tpl
+END
+other.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/other.tpl
+END
+status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/944/branches/fixes_for_2.1.1/theme/iPhone/tpl/status.tpl
+END

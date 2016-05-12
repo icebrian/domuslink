@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/931/trunk/theme/iPhone/tpl
+END
+status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/931/trunk/theme/iPhone/tpl/status.tpl
+END
+home.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/home.tpl
+END
+systemstatus.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/systemstatus.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/444/trunk/theme/iPhone/tpl/error.tpl
+END
+appliance.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/appliance.tpl
+END
+scene.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/931/trunk/theme/iPhone/tpl/scene.tpl
+END
+shutter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/shutter.tpl
+END
+floorplan_table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/floorplan_table.tpl
+END
+light.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/light.tpl
+END
+irrigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/irrigation.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/login.tpl
+END
+modules.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/931/trunk/theme/iPhone/tpl/modules.tpl
+END
+about.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/about.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/layout.tpl
+END
+hvac.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/hvac.tpl
+END
+other.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/867/trunk/theme/iPhone/tpl/other.tpl
+END

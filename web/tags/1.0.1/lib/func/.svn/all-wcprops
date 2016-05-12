@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/534/tags/1.0.1/lib/func
+END
+cmd.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/534/tags/1.0.1/lib/func/cmd.func.php
+END
+config.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/534/tags/1.0.1/lib/func/config.func.php
+END
+debug.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/534/tags/1.0.1/lib/func/debug.func.php
+END
+misc.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/534/tags/1.0.1/lib/func/misc.func.php
+END
+file.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/534/tags/1.0.1/lib/func/file.func.php
+END
+lang.func.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/534/tags/1.0.1/lib/func/lang.func.php
+END
