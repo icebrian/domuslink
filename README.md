@@ -3,7 +3,7 @@ domus.Link is a web-based frontend for Heyu. Design focuses on separating config
 
 **For more information, please refer to http://domus.link.co.pt**
 
-*© Copyright 2007-2016 - Istvan Hubay Cebrian*
+*© Copyright - Istvan Hubay Cebrian*
 
 
 ### Hight-res GIF logo
